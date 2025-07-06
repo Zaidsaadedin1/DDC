@@ -92,7 +92,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 // CORS Configuration
 var allowedOrigins = new[]
 {   "http://localhost:3000",
-    "https://www.mbnakom.site",
+    "https://data-driven-consulting-lvhr.vercel.app",
+    "https://www.DDC.site",
     "https://*.railway.app"
 };
 
