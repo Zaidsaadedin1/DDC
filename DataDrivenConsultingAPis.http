@@ -1,0 +1,6 @@
+@DataDrivenConsultingAPis_HostAddress = http://localhost:5294
+
+GET {{DataDrivenConsultingAPis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
